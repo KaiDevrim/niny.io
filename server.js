@@ -1,5 +1,5 @@
 //this should be your domain name
-let hostname = "https://niny.io";
+let hostname = "https://dvr.im";
 //==============================================
 //standard express server
 const express = require("express");

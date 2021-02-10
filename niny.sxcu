@@ -1,9 +1,9 @@
 {
   "Version": "13.1.0",
-  "Name": "niny.io",
+  "Name": "dvr.im",
   "DestinationType": "URLShortener",
   "RequestMethod": "POST",
-  "RequestURL": "https://niny.io/shortenlink",
+  "RequestURL": "https://dvr.im/shortenlink",
   "Body": "JSON",
   "Data": "{\n  \"newlink\": \"$input$\",\n  \"vanity\":\"\"\n}",
   "URL": "$json:url$"
